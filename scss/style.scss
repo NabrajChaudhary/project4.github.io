@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+html
+{
+	scroll-behavior: smooth;
+}
+body
+{
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    scroll-behavior: smooth;
+}
+
+.red{
+	background: red!important; padding: 0px; color: yellow;
+	position: fixed;
+	top: 0px;
+}
+
+
+@import 'thome';
+@import 'tbody';
+@import 'oserv';
+@import 'fpart';
+@import 'testi';
+@import 'gallery';
+@import 'teamd';
+@import 'pricep';
+@import 'faq';
+@import 'contact';
+@import 'footer';
+
+.arr
+{
+	width: 35px; height: 35px;
+	background: #85b0be;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	border-radius: 5px;
+	display: none;
+	padding-left: 8px;
+	padding-top: 3px;
+}
+
+.arr a
+{
+	color: #fff;
+}

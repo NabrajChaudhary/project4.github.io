@@ -1,0 +1,126 @@
+.pricep
+{
+	padding: 20px 0px;
+}
+.pricep h3
+{
+	font-size: 36px;
+	font-weight: 900;
+	font-family: "Raleway", sans-serif;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	padding-bottom: 0;
+}
+
+.box1
+{
+	background: #f9f9f9;
+	padding:0px 15px;
+	margin: 10px 0px;
+	width: 100%;
+	border-radius: 8px;
+}
+
+.box1 h5
+{
+	padding: 20px 0px 15px 0px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 17px;
+	font-family: "Raleway", sans-serif;
+	font-weight: bold;
+	color: #052c3f;
+}
+
+.box1 h6
+{
+	font-size: 42px;
+	color: #85b0be;
+	font-weight: 500;
+	font-family: "Open Sans", sans-serif;
+	margin-bottom: 20px;
+}
+
+
+.box1 h6 span
+{
+	color: #bababa;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.box1 ul
+{
+	list-style: none;
+	li{
+		font-size: 16px;
+		padding: 5px;
+		margin-left: -12px;
+		del{
+			color:#ccc;
+		}
+	}
+}
+.box2
+{
+	background: #eff5f7;
+	padding:0px 15px;
+	margin: 10px 0px;
+	width: 100%;
+	border-radius: 8px;
+}
+
+.box2 h5
+{
+	padding: 20px 0px 15px 0px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 17px;
+	font-family: "Raleway", sans-serif;
+	font-weight: bold;
+	color: #052c3f;
+}
+
+.box2 h6
+{
+	font-size: 42px;
+	color: #85b0be;
+	font-weight: 500;
+	font-family: "Open Sans", sans-serif;
+	margin-bottom: 20px;
+}
+
+
+.box2 h6 span
+{
+	color: #bababa;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.box2 ul
+{
+	list-style: none;
+	li{
+		font-size: 16px;
+		padding: 5px;
+		margin-left: -12px;
+		del{
+			color:#ccc;
+		}
+	}
+}
+
+.btn-pricel
+{
+	padding: 10px 34px;
+	margin:10px 0px 40px 0px;
+	border-style: none;
+	background: #85b0be;
+	color: #fff;
+	border-radius: 6px;
+	font-family: "Raleway", sans-serif;
+	&:hover{
+		background:#a6c6d0;
+	}
+}

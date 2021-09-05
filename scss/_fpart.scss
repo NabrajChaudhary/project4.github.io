@@ -1,0 +1,27 @@
+.fpart
+{
+	padding: 80px 0px;
+}
+
+.fpart h5 a
+{
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 18px;
+	color: #052c3f;
+	font-family: 'Raleway', sans-serif;
+}
+
+.fpbtn
+{
+	border-radius: 4px;
+padding: 4px 25px 6px 25px;
+border: 2px solid #85b0be;
+color: #85b0be;
+font-weight: 500;
+background: #fff;
+&:hover{
+	    background-color: #85b0be;
+    color: #fff;
+}
+}

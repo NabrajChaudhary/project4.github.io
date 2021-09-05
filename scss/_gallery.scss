@@ -1,0 +1,68 @@
+.gallery1 
+{
+	padding: 45px 0px 75px 0px;;
+}
+.gallery1 h2
+{
+	font-size: 36px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	padding-bottom: 0;
+	color: #052c3f;
+	font-family: "Raleway", sans-serif;
+	font-weight: bold;
+	padding-top: 70px;
+}
+
+.gallery p
+{
+	padding-top: 20px;
+}
+
+
+.portre
+{
+	width: 300px;
+	height: 70px;
+	margin-left: 28px;
+}
+
+.potre h4
+{
+	font-size: 16px;
+	padding: 20px 5px 15px 5px;
+	margin-left: -60px;
+}
+
+.outer:hover .info2
+{
+	display: block;
+}
+/* .container{
+	width:90%
+	margin:10px auto;
+} */
+.portfolio-menu{
+	text-align:center;
+}
+.portfolio-menu ul li{
+	display:inline-block;
+	margin:0;
+	list-style:none;
+	padding:10px 15px;
+	cursor:pointer;
+	-webkit-transition:all 05s ease;
+	-moz-transition:all 05s ease;
+	-ms-transition:all 05s ease;
+	-o-transition:all 05s ease;
+	transition:all .5s ease;
+}
+
+.portfolio-item{
+	/*width:100%;*/
+}
+.portfolio-item .item{
+	/*width:303px;*/
+	float:left;
+	margin-bottom:10px;
+}

@@ -1,0 +1,49 @@
+.oserv
+{
+	background-color: #f6f9fa;
+	padding-bottom: 30px;
+}
+
+.oserv h3
+{
+font-size: 36px;
+font-weight: 900;
+text-transform: uppercase;
+margin-bottom: 20px;
+padding-bottom: 0;
+color: #052c3f;
+}
+
+.rcir
+{
+	width: 70px;
+	height: 70px;
+	border: 2px solid #85b0be;
+	border-radius: 50%;
+	padding-top: 20px;
+	color: #85b0be;
+	font-size: 20px;
+	&:hover{
+		background-color:#85b0be;
+		color: #fff;
+	}
+}
+.cirte a
+{
+margin-left: 0px;
+font-weight: 900;
+margin-bottom: 15px;
+font-size: 18px;
+color: #444444;
+font-family: "Raleway", sans-serif;
+text-decoration: none;
+padding: 10px 0px;
+&:hover{
+	color:#85b0be;
+}
+}
+
+.cirte p
+{
+	font-size: 14px;
+}

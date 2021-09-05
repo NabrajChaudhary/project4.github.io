@@ -1,0 +1,44 @@
+.testo
+{
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/testimonials-bg.jpg);
+	background-size: cover;
+	height: 70vh;
+	background-attachment: fixed;
+}
+
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
+
+
+.test01 {
+    padding: 0.25rem;
+    border: 6px solid rgba(255, 255, 255, 0.15);
+    max-width: 25%;
+    height: auto;
+    border-radius: 50%;
+}
+
+
+.contowl h5
+{
+	font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0 5px 0;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+}
+.countowl h6
+{
+	font-size: 14px;
+	color: #fff;;
+	margin: 0 0 15px 0;
+	font-family: "Raleway", sans-serif;
+}
+.countowl p
+{
+	font-style: italic;
+	margin: 0 auto 15px auto;
+	color: #eee;
+}
